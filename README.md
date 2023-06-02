@@ -9,7 +9,7 @@ The app is very simple as of now...you have a text box to input a task, you clic
 The purpose of this app is to help you prioritize better and make more time for the things that matter. When you focus on the things that are important and are urgent then you get rid of wasted time and end up having more leisure time in the long run. 
 
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://www.youtube.com/watch?v=hcJ4Oq3todw)
 
 # Development Environment
 
